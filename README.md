@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi Everyone 👋
+
+I'm Ellington, I'm a Junior in Aerospace Engineering from Aurora, Colorado. 
+
+I'm interested in aerodynamics and orbital mechanics, but I'm looking to learn more about programming and integrating programming concepts into my personal interests
 
 <!--
 **EllingtonS/EllingtonS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
