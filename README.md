@@ -1,8 +1,11 @@
 ### Hi Everyone 👋
 
-I'm Ellington, I'm a Junior in Aerospace Engineering from Aurora, Colorado. 
+I'm Ellington, I'm a Junior in Aerospace Engineering from Aurora, Colorado. I use he/they pronouns. 
 
-I'm interested in aerodynamics and orbital mechanics, but I'm looking to learn more about programming and integrating programming concepts into my personal interests
+I'm interested in aerodynamics and orbital mechanics, but I'm looking to learn more about programming and integrating programming concepts into my personal interests.
+
+I really enjoy Formula 1 and racing games, as well as photograpy and cinematograpy. 
+
 
 <!--
 **EllingtonS/EllingtonS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
