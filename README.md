@@ -4,7 +4,7 @@ I'm Ellington, I'm a Junior in Aerospace Engineering from Aurora, Colorado. I us
 
 I'm interested in aerodynamics and orbital mechanics, but I'm looking to learn more about programming and integrating programming concepts into my personal interests.
 
-I really enjoy Formula 1 and racing games, as well as photograpy and cinematograpy. 
+I really enjoy Formula 1 and racing games 🏎️, as well as photograpy and cinematograpy. 
 
 
 <!--
