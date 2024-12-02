@@ -1,10 +1,10 @@
 ### Hi Everyone 👋
 
-I'm Ellington, I'm a Junior in Aerospace Engineering from Aurora, Colorado. I use he/they pronouns. 
+I'm Ellington, I'm a first year PhD Student, studying Aerospace Engineering at the University of Colorado Boulder.
 
-I'm interested in aerodynamics and orbital mechanics, but I'm looking to learn more about programming and integrating programming concepts into my personal interests.
+My interests include both computational and experimental aerodynamics. I currently work across two different research groups, working to determine fundamental dynamics. 
 
-I really enjoy Formula 1 and racing games 🏎️, as well as photograpy and cinematograpy. 
+I really enjoy Formula 1 and simulation racing, as well as photograpy and cinematograpy. 
 
 
 <!--
